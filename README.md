@@ -1,4 +1,4 @@
-# Creditcard_Fruad_Detection
+# Creditcard_Fraud_Detection
 
 ## Project Introduction
 The Credit Card Fraud Detection project is a machine learning - based initiative aimed at identifying credit card fraud by analyzing historical transaction data. The project utilizes machine learning algorithms, particularly logistic regression and random forest algorithms, to conduct in - depth analysis of transaction data, enhancing the accuracy and efficiency of fraud detection.
